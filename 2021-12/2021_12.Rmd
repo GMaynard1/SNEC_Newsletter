@@ -24,7 +24,7 @@ devtools::source_gist(
 
 <font size="5"> *December 2021* </font>
 
-![SNEC Logo](Stock/SNEC_logo.jpg)
+![SNEC Logo](../Stock/SNEC_logo.jpg)
 </center>
 
 <font size="5"> **SNEC President's Message** </font>
@@ -67,7 +67,7 @@ Please submit abstracts [here](https://gcc02.safelinks.protection.outlook.com/?u
 ### Photo Essay: Aquaculture and Acidification Project
 *Submitted by: Abigail Archer, Fisheries & Aquaculture Specialist with Woods Hole Sea Grant and Barnstable Cape Cod Cooperative Extension*
 
-![Picture of Abby](2021-12/abby.jpg)
+![Picture of Abby](abby.jpg)
 
 Follow along in [this photo essay](https://seagrant.whoi.edu/photo-essay-aquaculture-and-acidification-project) as Woods Hole Sea Grant and Cape Cod Cooperative Extension respond to a question asked by members of the Massachusetts shellfish aquaculture industry. Lab studies show that shellfish exposed to acidic conditions will have poor growth and survival. Is this happening now in the waters of Cape Cod? Will oysters and quahogs exposed to varying acidic conditions in their natural environment also have differences in growth or survival? Or will other conditions in the environment like the amount of food available, balance out the effects of acidic water?
 
