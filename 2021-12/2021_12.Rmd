@@ -90,4 +90,13 @@ The NE CASC will announce is spring 2022 webinar series in January. [Past webina
 
 -----
 
-## Recently Published Research 
+## Recently Published Research
+
+### PAPER TITLE
+
+> CITATION
+
+Abstract
+[Read the full paper..](https://doi.org/DOINUMBER)
+
+-----

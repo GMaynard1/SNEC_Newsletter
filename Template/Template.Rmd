@@ -43,3 +43,12 @@ render_toc(getSourceEditorContext()$path)
 ## Member Submitted Content
 
 ## Recently Published Research 
+
+### PAPER TITLE
+
+> CITATION
+
+Abstract
+[Read the full paper..](https://doi.org/DOINUMBER)
+
+-----
