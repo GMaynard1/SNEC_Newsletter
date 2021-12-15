@@ -24,7 +24,7 @@ devtools::source_gist(
 
 <font size="5"> *December 2021* </font>
 
-![SNEC Logo](../Stock/SNEC_logo.jpg)
+![SNEC Logo](../Stock/SNEC.jpg)
 </center>
 
 <font size="5"> **SNEC President's Message** </font>
@@ -92,11 +92,21 @@ The NE CASC will announce is spring 2022 webinar series in January. [Past webina
 
 ## Recently Published Research
 
-### PAPER TITLE
+### A review of River Herring science in support of species conservation and ecosystem restoration.
 
-> CITATION
+> Hare, J. A., D. L. Borggaard, M. A. Alexander, M. M. Bailey, A. A. Bowden, K. Damon-Randall, J. T. Didden, D. J. Hasselman, T. Kerns, R. McCrary, S. McDermott, J. A. Nye, J. Pierce, E. T. Schultz, J. D. Scott, C. Starks, K. Sullivan, and M. B. Tooley. 2021. A review of River Herring science in support of species conservation and ecosystem restoration. Marine and Coastal Fisheries 13: 627-664. (doi: 10.1002/mcf2.10174)
 
-Abstract
-[Read the full paper..](https://doi.org/DOINUMBER)
+River herring—a collective name for the Alewife Alosa pseudoharengus and Blueback Herring A. aestivalis—play a crucial role in freshwater and marine ecosystems along the Eastern Seaboard of North America. River herring are anadromous and return to freshwater habitats in the tens to hundreds of millions to spawn, supplying food to many species and providing nutrients to freshwater ecosystems. After two and a half centuries of habitat loss, habitat degradation, and overfishing, river herring are at historic lows. In 2013, National Oceanic and Atmospheric Administration Fisheries established the Technical Expert Working Group (TEWG) to synthesize information about river herring and to provide recommendations to advance the science related to their restoration. This paper was composed largely by the chairs of the TEWG subgroups and represents a review of the current state of knowledge of river herring, with an emphasis on identification of threats and discussion of recent research and management actions related to understanding and reducing these threats. Important research needs are then identified and discussed. Finally, current knowledge is synthesized, considering the relative importance of different threats. This synthesis identifies dam removal and increased stream connectivity as critical to river herring restoration. Better understanding and accounting for predation, climate change, and fisheries are also important for restoration. Finally, there is recent evidence that the effects of human development and contamination on habitat quality may be more important threats than previously recognized. Given the range of threats, an ecosystem approach is needed to be successful with river herring restoration. To facilitate this ecosystem approach, collaborative forums such as the TEWG (renamed the Atlantic Coast River Herring Collaborative Forum in 2020) are needed to share and synthesize information among river herring managers, researchers, and community groups from across the species’ range.
+[Read the full paper..](https://doi.org/10.1002/mcf2.10174)
 
 -----
+
+*SNEC exists to encourage exchange of information by members of the American Fisheries Society residing or working within Massachusetts, Connecticut, and Rhode Island. Find us online:*
+
+- [Website](https://snec.fisheries.org/)
+- [Facebook](https://facebook.com/SNECAFS)
+- [Twitter](https://twitter.com/snec_afs)
+- [YouTube](https://www.youtube.com/channel/UCsWL2YkP5tkWs2DAXPihvPA/about)
+
+*Submit your own newsletter content [here](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.gle%2F9dny25282o2hRWAW9&data=04%7C01%7Caarcher%40barnstablecounty.org%7C5553f580af294f062e2a08d9b8d1f7aa%7C84475217b42348dbb766ed4bbbea74f1%7C0%7C1%7C637744034233371914%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Lx14NCnMvq3gIEmmuTTgBEy%2Bh3MMFsFE%2FE1216YSy8s%3D&reserved=0)*
+
