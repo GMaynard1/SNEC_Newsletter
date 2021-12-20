@@ -27,20 +27,17 @@ devtools::source_gist(
 ![SNEC Logo](../Stock/SNEC.jpg)
 </center>
 
-<font size="5"> **SNEC President's Message** </font>
-
 ```{r toc, echo=FALSE} 
 render_toc("2021_12.Rmd")
 ```
 
-## SNEC Committee Reports 
-
-## Student Subunit Reports 
-
-### UConn 
-### UMass Amherst
-
 ## Announcements 
+
+### New Newsletter Format
+
+The communications committee is testing a new newsletter format. Please feel free to share feedback with us by emailing [Abigail Archer](mailto:aarcher@barnstablecounty.org) or [George Maynard](mailto:george.maynard@noaa.gov), and submit your own content for the next edition anytime using our [new Google Form](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.gle%2F9dny25282o2hRWAW9&data=04%7C01%7Caarcher%40barnstablecounty.org%7C5553f580af294f062e2a08d9b8d1f7aa%7C84475217b42348dbb766ed4bbbea74f1%7C0%7C1%7C637744034233371914%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Lx14NCnMvq3gIEmmuTTgBEy%2Bh3MMFsFE%2FE1216YSy8s%3D&reserved=0).
+
+-----
 
 ### SNEC supports a new generation of biologists
 
@@ -98,6 +95,25 @@ The NE CASC will announce is spring 2022 webinar series in January. [Past webina
 
 River herring—a collective name for the Alewife Alosa pseudoharengus and Blueback Herring A. aestivalis—play a crucial role in freshwater and marine ecosystems along the Eastern Seaboard of North America. River herring are anadromous and return to freshwater habitats in the tens to hundreds of millions to spawn, supplying food to many species and providing nutrients to freshwater ecosystems. After two and a half centuries of habitat loss, habitat degradation, and overfishing, river herring are at historic lows. In 2013, National Oceanic and Atmospheric Administration Fisheries established the Technical Expert Working Group (TEWG) to synthesize information about river herring and to provide recommendations to advance the science related to their restoration. This paper was composed largely by the chairs of the TEWG subgroups and represents a review of the current state of knowledge of river herring, with an emphasis on identification of threats and discussion of recent research and management actions related to understanding and reducing these threats. Important research needs are then identified and discussed. Finally, current knowledge is synthesized, considering the relative importance of different threats. This synthesis identifies dam removal and increased stream connectivity as critical to river herring restoration. Better understanding and accounting for predation, climate change, and fisheries are also important for restoration. Finally, there is recent evidence that the effects of human development and contamination on habitat quality may be more important threats than previously recognized. Given the range of threats, an ecosystem approach is needed to be successful with river herring restoration. To facilitate this ecosystem approach, collaborative forums such as the TEWG (renamed the Atlantic Coast River Herring Collaborative Forum in 2020) are needed to share and synthesize information among river herring managers, researchers, and community groups from across the species’ range.
 [Read the full paper..](https://doi.org/10.1002/mcf2.10174)
+
+-----
+
+### Direct and size-mediated effects of temperature and ration-dependent growth rates on energy reserves in juvenile anadromous alewives (*Alosa pseudoharengus*)
+
+> Guo L. W., S. D. McCormick, E. T. Schultz, A. Jordaan. 2021. Direct and size-mediated effects of temperature and ration-dependent growth rates on energy reserves in juvenile anadromous alewives (*Alosa pseudoharengus*). Journal of Fish Biology (doi: 10.1111/jfb.14824)
+
+Growth rate and energy reserves are important determinants of fitness and are governed by endogenous and exogenous factors. Thus, examining the influence of individual and multiple stressors on growth and energy reserves can help estimate population health under current and future conditions. In young anadromous fishes, freshwater habitat quality determines physiological state and fitness of juveniles emigrating to marine habitats. In this study, the authors tested how temperature and food availability affect survival, growth and energy reserves in juvenile anadromous alewives (*Alosa pseudoharengus*), a forage fish distributed along the eastern North American continent. Field-collected juvenile anadromous A. pseudoharengus were exposed for 21 days to one of two temperatures (21°C and 25°C) and one of two levels of food rations (1% or 2% tank biomass daily) and compared for differences in final size, fat mass-at-length, lean mass-at-length and energy density. Increased temperature and reduced ration both led to lower growth rates, and the effect of reduced ration was greater at higher temperature. Fat mass-at-length decreased with dry mass, and energy density increased with total length, suggesting size-based endogenous influences on energy reserves. Lower ration also directly decreased fat mass-at-length, lean mass-at-length and energy density. Given the fitness implications of size and energy reserves, temperature and food availability should be considered important indicators of nursery habitat quality and incorporated in *A. pseudoharengus* life-history models to improve forecasting of population health under climate change.
+[Read the full paper..](https://doi.org/10.1111/jfb.14824)
+
+-----
+
+### Ovarian dynamics and fecundity regulation in blueback herring, *Alosa aestivalis*, from the Connecticut River, US.
+
+> Mouchlianitis F., E. T. Schultz, T. C. dos Santos Schmidt, J. P. Davis, K. Ganias. 2021. Ovarian dynamics and fecundity regulation in blueback herring, *Alosa aestivalis*, from the Connecticut River, US. Journal of Applied Ichthyology 37: 64-72. (doi: 10.1111/jai.14128; preprint at http://opencommons.uconn.edu/eeb_articles/50)
+
+We analyzed ovarian dynamics of anadromous blueback herring, *Alosa aestivalis*, in Connecticut River with the principal aim of exploring oocyte recruitment and how it shapes the fecundity pattern. We examined the oocyte release strategy and analyzed spawning cyclicity by linking oocyte growth to the degeneration of postovulatory follicles. Females were accordingly classified as pre-spawners, early and late active spawners, and oocyte recruitment intensity was compared among the different spawning phases. Oocyte recruitment occurred continuously and in parallel with spawning activity, a pattern which is diagnostic of indeterminate fecundity. However, both fecundity and oocyte recruitment intensity progressively decreased (tapered) throughout spawning, until the ovary was depleted of vitellogenic oocytes. There was no massive atresia of vitellogenic oocytes at the end of the spawning season, which is atypical of indeterminate spawners. We propose that tapering in oocyte recruitment and fecundity is an adaptation to the high energetic expenditure of the upstream spawning migration.
+
+[Read the full paper..](https://doi.org/10.1111/jai.14128)
 
 -----
 
