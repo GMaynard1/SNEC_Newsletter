@@ -14,7 +14,7 @@ newsletter=blastula::render_email(
 ## Test
 blastula::smtp_send(
   email=newsletter,
-  to=c("george.maynard@noaa.gov","andrew.bade@ct.gov","christopher.mcdowell@ct.gov"),
+  to=c("george.maynard@noaa.gov","andrew.bade@ct.gov"),
   from="snec.newsletter@gmail.com",
   subject="TEST Newsletter",
   credentials=creds_key(id = "snec_gmail")
