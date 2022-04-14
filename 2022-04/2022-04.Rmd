@@ -40,10 +40,35 @@ render_toc(getSourceEditorContext()$path)
 
 ## Announcements
 
-### 17th Flatfish Biology Conference
+### NED/SNEC Fisheries and Aquatic Resources Meeting Call for Symposia
+
+> Fisheries and Aquatic Resources Meeting
+January 8-10, 2023
+Boston Hyatt Regency
+
+Mark your calendar for an exciting opportunity to network and learn about innovative fisheries research being conducted in the northeastern region of North America and beyond! The Northeastern Division and Southern New England Chapter of the American Fisheries Society are hosting a joint meeting in Boston at the Boston Hyatt Regency from January 8th to 10th, 2023. The meeting will consist of a full day of workshops and two days of presentations, including keynote speakers and student awards. Three research talk sessions will run concurrently throughout the meeting, including a special session titled Diadromous Fishes: New Tools, New Findings, New Hope. 
+
+The Program Committee invites proposals for symposia for both the general AFS/SNEC meeting and for the diadromous fish session. An organized symposium is a series of integrated presentations that address aspects of a common topic or theme. A symposium may consist of invited speakers or be opened to accept presentations from the general call for abstracts.
+
+The Program Committee also encourages organizers to submit creative proposals for innovative sessions that utilize novel designs, approaches, and formats. Such sessions might include lightning presentations, interactive activities, or creative interdisciplinary collaborations.
+
+All symposium proposals should be submitted via email to SNECmeetings@gmail.com by June 15th, 2022. Upon review, the Program Committee may request revisions or collaborations to reduce overlap in subject matter and strengthen individual sessions. Organizers will be notified of their acceptance by the beginning of August, with a call for abstracts in September.
+
+Please include the following information with each submission:
+
+- Type: Symposium, innovative session
+- Intended length: 1 2-hour block, half-day
+- Title: Limited to 12 words
+- Organizer(s): Name and contact information, submitting organizer is the point of contact
+- Description: A brief session description that will be included in the program (150 words)
+- Abstract: Abstracts will be limited to 350 words.
+
+### Seventeenth Flatfish Biology Conference
 
 > November 15-16, 2022
 Water’s Edge Resort & Spa, Westbrook, CT
+
+![FlatfishConferenceLogo](FBC.png)
 
 The Flatfish Biology Conference welcomes platform and poster presentations addressing any aspect of flatfish research (e.g., biology, ecology, aquaculture, stock assessment, physiology, etc.) from all regions. Professional and student flatfish researchers are invited to participate.
 
