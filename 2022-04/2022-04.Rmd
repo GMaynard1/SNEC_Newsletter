@@ -40,7 +40,37 @@ render_toc(getSourceEditorContext()$path)
 
 ## Announcements
 
-### NED/SNEC Fisheries and Aquatic Resources Meeting Call for Symposia
+----------
+
+### SNEC Summer Meeting 2022
+
+> June 21, 2022
+URI Bay Campus, Narragansett, RI
+
+We are excited to announce we will be holding our Summer 2022 Science Meeting on June 21, at the URI Bay Campus, following our traditional meeting format. Abstract submission is OPEN!!! You can submit your abstract [here](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLScJOKzP8Kz2IvZl7yjUvXHZcZIMge6WPVq60H7q4K8ZuaIMqw%2Fviewform&data=04%7C01%7C%7Cf2fb4d1caa8946aec53808da1bab730b%7C17f1a87e2a254eaab9df9d439034b080%7C0%7C0%7C637852720416740708%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=ku5oz9c2R%2FDj8VeUpsERMIBP1vhdTAVIfAZ4w3%2BLjZs%3D&reserved=0) - abstract submission will close on *FRIDAY, JUNE 3*. 
+
+Stay tuned for registration info!!
+
+----------
+
+### Seventeenth Flatfish Biology Conference
+
+> November 15-16, 2022
+Water’s Edge Resort & Spa, Westbrook, CT
+
+![FlatfishConferenceLogo](FBC.png)
+
+The Flatfish Biology Conference welcomes platform and poster presentations addressing any aspect of flatfish research (e.g., biology, ecology, aquaculture, stock assessment, physiology, etc.) from all regions. Professional and student flatfish researchers are invited to participate.
+
+For more information, please visit our [website](https://www.fisheries.noaa.gov/new-england-mid-atlantic/outreach-and-education/flatfish-biology-conference) or contact any of the conference co-chairs:
+
+- [Steve Dwyer](stephen.m.dwyer@dominionenergy.com)
+- [Elizabeth Fairchild](elizabeth.fairchild@unh.edu)
+- [Renee Mercaldo-Allen](renee.mercaldo-allen@noaa.gov)
+
+----------
+
+### NED and SNEC Fisheries and Aquatic Resources Meeting Call for Symposia
 
 > Fisheries and Aquatic Resources Meeting
 January 8-10, 2023
@@ -63,22 +93,15 @@ Please include the following information with each submission:
 - Description: A brief session description that will be included in the program (150 words)
 - Abstract: Abstracts will be limited to 350 words.
 
-### Seventeenth Flatfish Biology Conference
-
-> November 15-16, 2022
-Water’s Edge Resort & Spa, Westbrook, CT
-
-![FlatfishConferenceLogo](FBC.png)
-
-The Flatfish Biology Conference welcomes platform and poster presentations addressing any aspect of flatfish research (e.g., biology, ecology, aquaculture, stock assessment, physiology, etc.) from all regions. Professional and student flatfish researchers are invited to participate.
-
-For more information, please visit our [website](https://www.fisheries.noaa.gov/new-england-mid-atlantic/outreach-and-education/flatfish-biology-conference) or contact any of the conference co-chairs:
-
-- [Steve Dwyer](stephen.m.dwyer@dominionenergy.com)
-- [Elizabeth Fairchild](elizabeth.fairchild@unh.edu)
-- [Renee Mercaldo-Allen](renee.mercaldo-allen@noaa.gov)
+----------
 
 ## Member Submitted Content
+
+### Student Travel Award Reflections
+
+Check out [this slide deck](https://drive.google.com/file/d/1d20aFGcpXuj4YV1_xJo89PdbjAPP7fkz/view?usp=sharing) to learn more about the students who were recently awarded SNEC travel stipends to share their research, and what it meant to them to have this opportunity. 
+
+
 
 ## Recently Published Research 
 
