@@ -129,10 +129,10 @@ For more information, contact:
 
 ### PAPER TITLE
 
-> CITATION
+> Dalton, R.M., Sheppard, J.J., Finn, J.T., Jordaan, A. and Staudinger, M.D. (2022), Phenological Variation in Spring Migration Timing of Adult Alewife in Coastal Massachusetts. Mar Coast Fish, 14: e10198. https://doi.org/10.1002/mcf2.10198
 
-Abstract
-[Read the full paper..](https://doi.org/DOINUMBER)
+The timing of biological events in plants and animals, such as migration and reproduction, is shifting due to climate change. Anadromous fishes are particularly susceptible to these shifts as they are subject to strong seasonal cycles when transitioning between marine and freshwater habitats to spawn. We used linear models to determine the extent of phenological shifts in adult Alewife Alosa pseudoharengus as they migrated from ocean to freshwater environments during spring to spawn at 12 sites along the northeastern USA. We also evaluated broadscale oceanic and atmospheric drivers that trigger their movements from offshore to inland habitats, including sea surface temperature, North Atlantic Oscillation index, and Gulf Stream index. Run timing metrics of initiation, median (an indicator of peak run timing), end, and duration were found to vary among sites. Although most sites showed negligible shifts towards earlier timing, statistically significant changes were detected in three systems. Overall, winter sea surface temperature, spring and fall transition dates, and annual run size were the strongest predictors of run initiation and median dates, while a combination of within-season and seasonal-lag effects influenced run end and duration timing. Disparate results observed across the 12 spawning runs suggest that regional environmental processes were not consistent drivers of phenology and local environmental and ecological conditions may be more important. Additional years of data to extend time series and monitoring of Alewife timing and movements in nearshore habitats may provide important information about staging behaviors just before adults transition between ocean and freshwater habitats.
+[Read the full paper..](https://doi.org/10.1002/mcf2.10198)
 
 -----
 
