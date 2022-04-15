@@ -97,9 +97,21 @@ Please include the following information with each submission:
 
 ## Member Submitted Content
 
+### Under Ocean Acidification, Embryos of a Key Forage Fish Struggle to Hatch
+
+Elaina Hancock described how a potential ripple effect from carbon in the atmosphere could have severe impacts throughout the ocean ecosystem in UConn Today. Read the full article [here](https://today.uconn.edu/2022/04/under-ocean-acidification-embryos-of-a-key-forage-fish-struggle-to-hatch/).
+
 ### Student Travel Award Reflections
 
 Check out [this slide deck](https://drive.google.com/file/d/1d20aFGcpXuj4YV1_xJo89PdbjAPP7fkz/view?usp=sharing) to learn more about the students who were recently awarded SNEC travel stipends to share their research, and what it meant to them to have this opportunity. 
+
+### View Screening for documentary, Last of the Right Whales
+
+Leah Baumwell has been involved with the documentary, Last of the Right Whales, as an impact campaign partner to help shape messages in the film and actions that the public can take after the film gets distributed more broadly. They are hosting a screening of the film in Portland, Maine on April 27th which includes a Q&A panel (fishermen, scientists, NGOs) that Leah will be moderating to help inform the audience. Leah encourages any members in the area to attend. 
+
+### River Herring: Bringing the Ocean to New England's Freshwater by Abigail Archer
+
+In December, Abigail Archer, Fisheries & Aquaculture Specialist with Woods Hole Sea Grant and Cape Cod Cooperative Extension, gave an outreach talk as part of the Cape Cod Maritime Museum's lecture series. The title is "River Herring: Bringing the Ocean to New England's Freshwater" and can be viewed [here](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1058508541617377)
 
 ----------
 
@@ -127,12 +139,24 @@ For more information, contact:
 
 ## Recently Published Research 
 
-### PAPER TITLE
+### Phenological Variation in Spring Migration Timing of Adult Alewife in Coastal Massachusetts
 
 > Dalton, R.M., Sheppard, J.J., Finn, J.T., Jordaan, A. and Staudinger, M.D. (2022), Phenological Variation in Spring Migration Timing of Adult Alewife in Coastal Massachusetts. Mar Coast Fish, 14: e10198. https://doi.org/10.1002/mcf2.10198
 
 The timing of biological events in plants and animals, such as migration and reproduction, is shifting due to climate change. Anadromous fishes are particularly susceptible to these shifts as they are subject to strong seasonal cycles when transitioning between marine and freshwater habitats to spawn. We used linear models to determine the extent of phenological shifts in adult Alewife Alosa pseudoharengus as they migrated from ocean to freshwater environments during spring to spawn at 12 sites along the northeastern USA. We also evaluated broadscale oceanic and atmospheric drivers that trigger their movements from offshore to inland habitats, including sea surface temperature, North Atlantic Oscillation index, and Gulf Stream index. Run timing metrics of initiation, median (an indicator of peak run timing), end, and duration were found to vary among sites. Although most sites showed negligible shifts towards earlier timing, statistically significant changes were detected in three systems. Overall, winter sea surface temperature, spring and fall transition dates, and annual run size were the strongest predictors of run initiation and median dates, while a combination of within-season and seasonal-lag effects influenced run end and duration timing. Disparate results observed across the 12 spawning runs suggest that regional environmental processes were not consistent drivers of phenology and local environmental and ecological conditions may be more important. Additional years of data to extend time series and monitoring of Alewife timing and movements in nearshore habitats may provide important information about staging behaviors just before adults transition between ocean and freshwater habitats.
 [Read the full paper..](https://doi.org/10.1002/mcf2.10198)
+
+### Seasonal Movements of Green Crabs Revealed by Acoustic Telemetry
+
+> Zarrella-Smith KA, Woodall JN, Ryan A, Furey NB, Goldstein JS (2022), Seasonal estuarine movements of green crabs revealed by acoustic telemetry. Mar Ecol Prog Ser 681:129-143.
+
+Green crabs Carcinus maenas are considered among the most influential invasive species in temperate estuaries worldwide. Yet management can be hindered by the lack of high-resolution data on green crab movement ecology. We addressed this knowledge gap by coupling passive acoustic telemetry and water quality monitoring to examine daily and seasonal movements of individual green crabs in the Webhannet River Estuary (Maine, USA). We tracked 22 adult green crabs (mean [±SD] carapace width = 63.8 ± 6.5 mm) between 2 successive tagging deployments from July 2018-January 2019, with one receiver maintained until mid-April 2019. Overall, our study demonstrated the viability of using acoustic telemetry to assess seasonal movements of green crabs, with an average (±SE) individual detection rate of 27.9 ± 2.8 detections h-1 from July-January. Most crabs remained localized to very specific regions of the estuary, with each region representing a 300-600 m linear distance. Logistic regression models indicated that movements by green crabs to the downstream area were associated with a shift in temperature below 10°C, regardless of sex. From January-April 2019, 9 crabs were found to overwinter in the downstream area, potentially taking refuge in deeper waters. Movement patterns identified in this study further contribute to our understanding of the distances traveled and the areas used by green crabs, as well as further resolve overwintering behavior with consequences for mortality risk due to low temperatures. This additional knowledge of adult green crab movement and dispersal dynamics is valuable to resource managers considering intervention strategies.
+
+### Angler Choices That Help Catch Lots of Big Fish
+
+> Bade, A.P., Dippold, D.A., Schmidt, B.A., DuFour, M.R., Hartman, T.J. and Ludsin, S.A. (2022), Angler Choices That Help Catch Lots of Big Fish. Fisheries. https://doi.org/10.1002/fsh.10722
+
+A primary goal of fisheries management is to maximize angler satisfaction (e.g., by catching more and bigger fish), while maintaining sustainable populations. In addition to environmental and ecological factors, angler choices may influence recreational catches. Using interviews (92,838) from Walleye Sander vitreus anglers in Lake Erie during 1989–2017, we identified how angler behavior influences catch outcomes. Angler behaviors were associated with changes in catch rate and the length of harvested fish. For example, trolling resulted in a 50% increase in median catch and a 24-mm increase in length, relative to casting. Other behaviors led to tradeoffs between catch rate and size, such as the time of year anglers fished. We identified behaviors that maximize fishing success with respect to anglers’ desired catch outcomes. Our results can help increase angler satisfaction by providing realistic catch expectations, given the environmental and fishery conditions, while improving recreational catch outcomes through more informed angler decision making.
 
 -----
 
