@@ -34,13 +34,21 @@ devtools::source_gist(
 render_toc(getSourceEditorContext()$path)
 ```
 
-## SNEC Committee Reports 
+## SNEC Reports 
+
+- [Board of Directors Minutes from October 2021](https://drive.google.com/file/d/1jqQcA03y2cue5ZuwPPFWws19Nxh0jv_Y/view?usp=sharing)
+- [Finance Committee 2021-Q4 and 2022-Q1](https://drive.google.com/file/d/1-TvYSrLUUsFpTAhRkI06cVo800GLQJIV/view?usp=sharing)
 
 ## Student Subunit Reports 
 
 ## Announcements
 
-----------
+### Volunteer Opportunities
+
+- __SNEC is looking for a Professionalism Chair. Please contact anyone on the [Board of Directors](https://snec.fisheries.org/board-of-directors/) if you are interested in learning more.__
+
+- We need judges for the SNEC Student Travel Award. Please contact [Syma Ebbin](syma.ebbin@uconn.edu) for more information. 
+- Are you a professional member attending the summer meeting? Please consider volunteering to be a judge for the Best Student Presentation awards. If you're interested, contact [Syma Ebbin](syma.ebbin@uconn.edu). 
 
 ### SNEC Summer Meeting 2022
 
@@ -144,13 +152,20 @@ For more information, contact:
 > Dalton, R.M., Sheppard, J.J., Finn, J.T., Jordaan, A. and Staudinger, M.D. (2022), Phenological Variation in Spring Migration Timing of Adult Alewife in Coastal Massachusetts. Mar Coast Fish, 14: e10198. https://doi.org/10.1002/mcf2.10198
 
 The timing of biological events in plants and animals, such as migration and reproduction, is shifting due to climate change. Anadromous fishes are particularly susceptible to these shifts as they are subject to strong seasonal cycles when transitioning between marine and freshwater habitats to spawn. We used linear models to determine the extent of phenological shifts in adult Alewife Alosa pseudoharengus as they migrated from ocean to freshwater environments during spring to spawn at 12 sites along the northeastern USA. We also evaluated broadscale oceanic and atmospheric drivers that trigger their movements from offshore to inland habitats, including sea surface temperature, North Atlantic Oscillation index, and Gulf Stream index. Run timing metrics of initiation, median (an indicator of peak run timing), end, and duration were found to vary among sites. Although most sites showed negligible shifts towards earlier timing, statistically significant changes were detected in three systems. Overall, winter sea surface temperature, spring and fall transition dates, and annual run size were the strongest predictors of run initiation and median dates, while a combination of within-season and seasonal-lag effects influenced run end and duration timing. Disparate results observed across the 12 spawning runs suggest that regional environmental processes were not consistent drivers of phenology and local environmental and ecological conditions may be more important. Additional years of data to extend time series and monitoring of Alewife timing and movements in nearshore habitats may provide important information about staging behaviors just before adults transition between ocean and freshwater habitats.
+
 [Read the full paper..](https://doi.org/10.1002/mcf2.10198)
+
+-----
 
 ### Seasonal Movements of Green Crabs Revealed by Acoustic Telemetry
 
-> Zarrella-Smith, K.A., Woodall, J.N., Ryan, A., Furey, N.B., Goldstein, J.S. (2022), Seasonal estuarine movements of green crabs revealed by acoustic telemetry. Mar Ecol Prog Ser 681:129-143.
+> Zarrella-Smith, K.A., Woodall, J.N., Ryan, A., Furey, N.B., Goldstein, J.S. (2022), Seasonal estuarine movements of green crabs revealed by acoustic telemetry. Mar Ecol Prog Ser 681:129-143. https://doi.org/10.3354/meps13927
 
-Green crabs Carcinus maenas are considered among the most influential invasive species in temperate estuaries worldwide. Yet management can be hindered by the lack of high-resolution data on green crab movement ecology. We addressed this knowledge gap by coupling passive acoustic telemetry and water quality monitoring to examine daily and seasonal movements of individual green crabs in the Webhannet River Estuary (Maine, USA). We tracked 22 adult green crabs (mean [±SD] carapace width = 63.8 ± 6.5 mm) between 2 successive tagging deployments from July 2018-January 2019, with one receiver maintained until mid-April 2019. Overall, our study demonstrated the viability of using acoustic telemetry to assess seasonal movements of green crabs, with an average (±SE) individual detection rate of 27.9 ± 2.8 detections h-1 from July-January. Most crabs remained localized to very specific regions of the estuary, with each region representing a 300-600 m linear distance. Logistic regression models indicated that movements by green crabs to the downstream area were associated with a shift in temperature below 10°C, regardless of sex. From January-April 2019, 9 crabs were found to overwinter in the downstream area, potentially taking refuge in deeper waters. Movement patterns identified in this study further contribute to our understanding of the distances traveled and the areas used by green crabs, as well as further resolve overwintering behavior with consequences for mortality risk due to low temperatures. This additional knowledge of adult green crab movement and dispersal dynamics is valuable to resource managers considering intervention strategies.
+Green crabs *Carcinus maenas* are considered among the most influential invasive species in temperate estuaries worldwide. Yet management can be hindered by the lack of high-resolution data on green crab movement ecology. We addressed this knowledge gap by coupling passive acoustic telemetry and water quality monitoring to examine daily and seasonal movements of individual green crabs in the Webhannet River Estuary (Maine, USA). We tracked 22 adult green crabs (mean [±SD] carapace width = 63.8 ± 6.5 mm) between 2 successive tagging deployments from July 2018-January 2019, with one receiver maintained until mid-April 2019. Overall, our study demonstrated the viability of using acoustic telemetry to assess seasonal movements of green crabs, with an average (±SE) individual detection rate of 27.9 ± 2.8 detections h-1 from July-January. Most crabs remained localized to very specific regions of the estuary, with each region representing a 300-600 m linear distance. Logistic regression models indicated that movements by green crabs to the downstream area were associated with a shift in temperature below 10°C, regardless of sex. From January-April 2019, 9 crabs were found to overwinter in the downstream area, potentially taking refuge in deeper waters. Movement patterns identified in this study further contribute to our understanding of the distances traveled and the areas used by green crabs, as well as further resolve overwintering behavior with consequences for mortality risk due to low temperatures. This additional knowledge of adult green crab movement and dispersal dynamics is valuable to resource managers considering intervention strategies.
+
+[Read the full paper...](https://doi.org/10.3354/meps13927)
+
+-----
 
 ### Angler Choices That Help Catch Lots of Big Fish
 
@@ -158,8 +173,49 @@ Green crabs Carcinus maenas are considered among the most influential invasive s
 
 A primary goal of fisheries management is to maximize angler satisfaction (e.g., by catching more and bigger fish), while maintaining sustainable populations. In addition to environmental and ecological factors, angler choices may influence recreational catches. Using interviews (92,838) from Walleye Sander vitreus anglers in Lake Erie during 1989–2017, we identified how angler behavior influences catch outcomes. Angler behaviors were associated with changes in catch rate and the length of harvested fish. For example, trolling resulted in a 50% increase in median catch and a 24-mm increase in length, relative to casting. Other behaviors led to tradeoffs between catch rate and size, such as the time of year anglers fished. We identified behaviors that maximize fishing success with respect to anglers’ desired catch outcomes. Our results can help increase angler satisfaction by providing realistic catch expectations, given the environmental and fishery conditions, while improving recreational catch outcomes through more informed angler decision making.
 
+[Read the full paper...](https://doi.org/10.1002/fsh.10722)
+
 -----
 
+### Update on the Spatial Distribution of Butterfish, 1982-2019
+
+> Adams, C. F. 2022. Update on the Spatial Distribution of Butterfish, 1982-2019. https://doi.org/10.25923/r0p0-ty08
+
+This document updates a prior analysis of the spatial distribution of butterfish (*Peprilus triacanthus*) in the Northwest Atlantic Ocean with 6 additional years of Northeast Fisheries Science Center (NEFSC) spring and fall bottom trawl survey data. The primary findings are that there was a significant increase in area occupancy for all ages of butterfish over the spring time series, as well as a significant increase in area occupancy for age 0 butterfish in the fall, due in part to a range expansion into the Gulf of Maine. It is recommended that inclusion of the NEFSC spring bottom trawl survey data in the assessment model should be considered in the upcoming research track, as well as Gulf of Maine and outer Georges Bank strata.
+
+[Read the full paper..](https://doi.org/10.25923/r0p0-ty08)
+
+-----
+
+### Serious Injury Determinations for Small Cetaceans and Pinnipeds Caught in Commercial Fisheries off the Northeast U.S. Coast, 2015-2019
+
+> Josephson, E. 2022. Serious Injury Determinations for Small Cetaceans and Pinnipeds Caught in Commercial Fisheries off the Northeast U.S. Coast 2015-2019. https://doi.org/10.25923/sgbq-m146
+
+The Marine Mammal Protection Act (MMPA) requires the National Marine Fisheries Service (NMFS) to estimate annual levels of human-caused mortality and serious injury to marine mammal stocks (section 117) and to categorize commercial fisheries based on their level of incidental mortality and serious injury of marine mammals (section 118). Serious injury (SI) determinations were addressed at NMFS-convened workshops in 1997 and 2007 (Angliss and DeMaster 1998; Andersen et al. 2008), and in January 2012, the agency published new national guidelines for distinguishing serious from non-serious injuries of marine mammals (National Policy for Distinguishing…2012). A major goal of the new guidelines was to establish national consistency and transparency in SI determinations. To implement the new guidelines, Science Center SI determination (SID) staff are required to annually review the observer (OBS) and at-sea monitor (ASM) records on all incidentally caught marine mammals that were released alive. Determinations made on these fishery interactions are independently reviewed by another center’s SID (e.g., Northeast Fisheries Science Center [NEFSC] determinations are sent to the Southwest Fisheries Science Center [SWFSC], the Greater Atlantic Regional Fisheries Office [GARFO], and the Atlantic Scientific Review Group [ASRG] before final determinations are published in this document).
+
+[Read the full paper...](https://library.oarcloud.noaa.gov/noaa_documents.lib/NMFS/NEFSC/NEFSC_reference_document/NEFSC_RD_22_03.pdf)
+
+-----
+
+###  Report of the Workshop: Optimizing the Research Intern Experience to Build Inclusion and Diversity in the Geosciences Workforce.
+
+> Joyce, P., P. Chigbu, A. Jearld, H. Kite-Powell, G. Liles, and K. Chu. 2021. Report of the Workshop: Optimizing the Research Intern Experience to Build Inclusion and Diversity in the Geosciences Workforce. https://doi.org/10.25923/zhv5-6729
+
+In celebration of the 10th anniversary of the Partnership Education Program (PEP) in Woods Hole, MA, a workshop was held from June 27-29, 2019, to discuss ways to increase diversity and inclusion in the geosciences workforce. The Workshop brought together former interns, administrators of research internship programs, and directors of scientific organizations to share perspectives on how well current research internship programs are working and what can be done to make them more supportive and more effective in encouraging members of underrepresented minorities to pursue careers in the geosciences. The Workshop focused on two topics: (1) identifying potential roadblocks that discourage minority students from entering the geosciences and (2) identifying steps that can be taken to help students overcome those roadblocks. There are many such roadblocks, and not all of them can be solved by the research institution. However, there are often ways an institution can structure a research internship program so it is a more positive, inclusive experience.
+
+[Read the full paper...](https://doi.org/10.25923/zhv5-6729)
+
+-----
+
+### Serious Injury and Mortality Determinations for Baleen Whale Stocks along the Gulf of Mexico, United States East Coast, and Atlantic Canadian Provinces, 2015-2019
+
+> Henry, A. 2022. Serious Injury and Mortality Determinations for Baleen Whale Stocks along the Gulf of Mexico, United States East Coast, and Atlantic Canadian Provinces, 2015-2019. https://doi.org/10.25923/nfr5-7r84
+
+Opportunistic reports were used to calculate rates of human-caused serious injury and mortality to baleen whale stocks along the Gulf of Mexico, United States east coast, and Atlantic Canadian provinces from 2015 through 2019. All available information for reported whale injury and mortality events was evaluated by using established criteria to assign injury severity and cause of injury or death for each event. The average annual rate of detected human-caused serious injury and mortality during the period was 7.65 for North Atlantic right whales (*Eubalaena glacialis*), 16.25 for Gulf of Maine humpback whales (*Megaptera novaeangliae*), 1.85 for western North Atlantic fin whales (*Balaenoptera physalus*), 10.35 for Canadian east coast minke whales (*B. acutorostrata*), 0.6 for Nova Scotian sei whales (*B. borealis*), and 0 for western North Atlantic blue whales (*B. musculus*) and northern Gulf of Mexico Bryde’s whales (*B. edeni*). The number of serious injuries and mortalities not reported is unknown, and actual levels may be much higher.
+
+[Read the full paper...](https://doi.org/10.25923/nfr5-7r84)
+
+-----
 *SNEC exists to encourage exchange of information by members of the American Fisheries Society residing or working within Massachusetts, Connecticut, and Rhode Island. Find us online:*
 
 - [Website](https://snec.fisheries.org/)
