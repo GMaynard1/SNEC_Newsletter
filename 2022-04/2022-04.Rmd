@@ -30,6 +30,26 @@ devtools::source_gist(
 
 <font size="5"> **SNEC President's Message** </font>
 
+Happy spring fellow fisheries folks! I hope this message finds you all healthy and well. As I look out my window and contemplate this message, I am inspired by the sites I can see that signal spring is upon us. The trees have buds, the daffodils are blooming and the male Gold Finches at my feeder are shedding their winter plumage for the brilliant yellow breeding colors that are getting brighter and brighter each day. It is a time of new beginnings. After another long and stressful winter surrounded by SARS-CoV2 we may hopefully be entering a phase where we can safely manage our interactions with people with less fear. One sign of this potential shift towards normalcy is SNEC is planning its first in person meeting in over 2 years!
+
+The summer 2022 Science Meeting is being held __IN PERSON__ on June 21, 2022 at the URI Bay Campus. Abstract submissions are now open and you can submit your abstract here. Abstract submission will close on Friday, June 3 so please consider presenting. We will continue to closely monitor the developing regional and state medical news surrounding SARS-CoV2 and the various state’s responses to it in our region and will utilize that information to inform us should we need to adjust our conference planning. With our new spring beginning, field sampling for many of us has started or is starting, and we are getting to work closely with staff once again. For me this has been a very busy spring as we try to play catch-up. Recently the inland fisheries group of the Connecticut DEEP Fisheries Division completed a relative abundance sample for Northern Pike on Bantam Lake is Litchfield/Morris, CT. We used only trap nets set in early March through early April to try to capture pre-spawn Northern Pike as they made their way to the spawning marshes around Bantam Lake. Though ice conditions hampered some of our sampling, we were able to catch some Northern Pike and we should be able to compare these recent catch results with historical catch results. This sampling is being done to assess a new stocking strategy at this lake. We have been purchasing and stocking 4-6 inch fingerling Northern Pike from a vendor in Minnesota for a few years to see if we can obtain a stable annual number of fingerlings for stocking to supplement our varied production from our own Connecticut managed spawning marshes so we can continue to provide Connecticut’s anglers with trophy Northern Pike fisheries.
+
+At the same time the inland fisheries group of the Connecticut DEEP Fisheries Division is performing a multi-gear population estimate (trap nets and nighttime boat electrofishing) on Mashapaug Lake in Union, CT. This sampling is being carried out to determine if our multi-year stocking strategy where we have been stocking larger (6-8 inch) Walleye fingerlings, as opposed to our usual stocking strategy of smaller (4-6 inch) fingerlings, is going to pay off and create a more robust fishable population of Walleye in this lake. Water temperatures have just recently reached the point where we are starting to capture decent numbers of Walleye with both gear types. As you’ll see as you peruse this newsletter there are many other professionals in SNEC that are doing some great things, there are links to some great work on Alewives, Sand Lance, green crabs, and right whales.
+
+In closing, I encourage everyone to enjoy the time they get to be out sampling with fellow colleagues this spring doing great science. Additionally, I would like to encourage you to take some time for yourself and your family. The outdoors has proven to be vitally important to people’s physical and especially mental health during the pandemic. Get outdoors and do something that energizes you. Something that fosters strong lasting memories with you, your family and your friends. I hope each of you are able tofind such an outlet. Spring is a beautiful time of year.
+
+Best wishes as we move forward into 2022!
+
+*Chris McDowell*
+
+*President, Southern New England Chapter of AFS*
+
+![Chris McDowell](ChriswithNP-300x225.jpg)
+
+-----
+
+__TABLE OF CONTENTS__
+
 ```{r toc, echo=FALSE} 
 render_toc(getSourceEditorContext()$path)
 ```
@@ -109,6 +129,8 @@ Please include the following information with each submission:
 
 Elaina Hancock described how a potential ripple effect from carbon in the atmosphere could have severe impacts throughout the ocean ecosystem in UConn Today. Read the full article [here](https://today.uconn.edu/2022/04/under-ocean-acidification-embryos-of-a-key-forage-fish-struggle-to-hatch/).
 
+![This photo shows sand lance embryos that have and have not hatched. Sand lance have trouble hatching at future ocean CO2 levels (photo courtesy of Emma Cross).](eggs-1024x914.jpg)
+
 ### Student Travel Award Reflections
 
 Check out [this slide deck](https://drive.google.com/file/d/1d20aFGcpXuj4YV1_xJo89PdbjAPP7fkz/view?usp=sharing) to learn more about the students who were recently awarded SNEC travel stipends to share their research, and what it meant to them to have this opportunity. 
@@ -121,6 +143,7 @@ Leah Baumwell has been involved with the documentary, Last of the Right Whales, 
 
 In December, Abigail Archer, Fisheries & Aquaculture Specialist with Woods Hole Sea Grant and Cape Cod Cooperative Extension, gave an outreach talk as part of the Cape Cod Maritime Museum's lecture series. The title is "River Herring: Bringing the Ocean to New England's Freshwater" and can be viewed [here](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1058508541617377)
 
+![CCMM logo](CCMM-2020-logo-web _1_.webp)
 ----------
 
 ### Long Island Sound Study Research Grant Program: Call for Preliminary Proposals Open
