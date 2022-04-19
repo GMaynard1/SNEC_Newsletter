@@ -30,13 +30,13 @@ devtools::source_gist(
 
 <font size="5"> **SNEC President's Message** </font>
 
-Happy spring fellow fisheries folks! I hope this message finds you all healthy and well. As I look out my window and contemplate this message, I am inspired by the sites I can see that signal spring is upon us. The trees have buds, the daffodils are blooming and the male Gold Finches at my feeder are shedding their winter plumage for the brilliant yellow breeding colors that are getting brighter and brighter each day. It is a time of new beginnings. After another long and stressful winter surrounded by SARS-CoV2 we may hopefully be entering a phase where we can safely manage our interactions with people with less fear. One sign of this potential shift towards normalcy is SNEC is planning its first in person meeting in over 2 years!
+Happy spring fellow fisheries folks! I hope this message finds you all healthy and well. As I look out my window and contemplate this message, I am inspired by the sights I can see that signal spring is upon us. The trees have buds, the daffodils are blooming and the male gold finches at my feeder are shedding their winter plumage for the brilliant yellow breeding colors that are getting brighter and brighter each day. It is a time of new beginnings. After another long and stressful winter surrounded by SARS-CoV2 we may hopefully be entering a phase where we can safely manage our interactions with people with less fear. One sign of this potential shift towards normalcy is SNEC is planning its __first in person meeting in over 2 years!__ The Summer 2022 Science Meeting is being held __IN PERSON__ on June 21, 2022, at the URI Bay Campus. Abstract submissions are now open and you can submit your abstract [here](https://docs.google.com/forms/d/e/1FAIpQLScJOKzP8Kz2IvZl7yjUvXHZcZIMge6WPVq60H7q4K8ZuaIMqw/viewform). Abstract submission will close on Friday, June 3 so please consider presenting. We will continue to closely monitor the developing regional and state medical news surrounding SARS-CoV2 and the various states' responses to it in our region and will utilize that information to inform us should we need to adjust our conference planning. 
 
-The summer 2022 Science Meeting is being held __IN PERSON__ on June 21, 2022 at the URI Bay Campus. Abstract submissions are now open and you can submit your abstract here. Abstract submission will close on Friday, June 3 so please consider presenting. We will continue to closely monitor the developing regional and state medical news surrounding SARS-CoV2 and the various state’s responses to it in our region and will utilize that information to inform us should we need to adjust our conference planning. With our new spring beginning, field sampling for many of us has started or is starting, and we are getting to work closely with staff once again. For me this has been a very busy spring as we try to play catch-up. Recently the inland fisheries group of the Connecticut DEEP Fisheries Division completed a relative abundance sample for Northern Pike on Bantam Lake is Litchfield/Morris, CT. We used only trap nets set in early March through early April to try to capture pre-spawn Northern Pike as they made their way to the spawning marshes around Bantam Lake. Though ice conditions hampered some of our sampling, we were able to catch some Northern Pike and we should be able to compare these recent catch results with historical catch results. This sampling is being done to assess a new stocking strategy at this lake. We have been purchasing and stocking 4-6 inch fingerling Northern Pike from a vendor in Minnesota for a few years to see if we can obtain a stable annual number of fingerlings for stocking to supplement our varied production from our own Connecticut managed spawning marshes so we can continue to provide Connecticut’s anglers with trophy Northern Pike fisheries.
+With our new spring beginning, field sampling for many of us has started or is starting, and we are getting to work closely with colleagues once again. For me this has been a very busy spring as we try to play catch-up. Recently the inland fisheries group of the Connecticut DEEP Fisheries Division completed a relative abundance sample for northern pike on Bantam Lake is Litchfield/Morris, CT. We used only trap nets set in early March through early April to try to capture pre-spawn northern pike as they made their way to the spawning marshes around Bantam Lake. Though ice conditions hampered some of our sampling, we were able to catch some northern pike and we should be able to compare these recent catch results with historical catch results. This sampling is being done to assess a new stocking strategy at this lake. We have been purchasing and stocking 4-6 inch fingerling northern pike from a vendor in Minnesota for a few years to see if we can obtain a stable annual number of fingerlings for stocking to supplement our varied production from our own Connecticut managed spawning marshes. All of the stocking efforts will ensure that we can continue to provide Connecticut’s anglers with trophy northern pike fisheries.
 
-At the same time the inland fisheries group of the Connecticut DEEP Fisheries Division is performing a multi-gear population estimate (trap nets and nighttime boat electrofishing) on Mashapaug Lake in Union, CT. This sampling is being carried out to determine if our multi-year stocking strategy where we have been stocking larger (6-8 inch) Walleye fingerlings, as opposed to our usual stocking strategy of smaller (4-6 inch) fingerlings, is going to pay off and create a more robust fishable population of Walleye in this lake. Water temperatures have just recently reached the point where we are starting to capture decent numbers of Walleye with both gear types. As you’ll see as you peruse this newsletter there are many other professionals in SNEC that are doing some great things, there are links to some great work on Alewives, Sand Lance, green crabs, and right whales.
+At the same time the inland fisheries group of the Connecticut DEEP Fisheries Division is performing a multi-gear population estimate (trap nets and nighttime boat electrofishing) on Mashapaug Lake in Union, CT. This sampling is being carried out to determine if our multi-year stocking strategy where we have been stocking larger (6-8 inch) walleye fingerlings, as opposed to our usual stocking strategy of smaller (4-6 inch) fingerlings, is going to pay off and create a more robust fishable population of Walleye in this lake. Water temperatures have just recently reached the point where we are starting to capture decent numbers of walleye with both gear types. As you’ll see as you peruse this newsletter there are many other professionals in SNEC that are doing some interesting things; there are links to some great work on alewives, sand lance, green crabs, and right whales.
 
-In closing, I encourage everyone to enjoy the time they get to be out sampling with fellow colleagues this spring doing great science. Additionally, I would like to encourage you to take some time for yourself and your family. The outdoors has proven to be vitally important to people’s physical and especially mental health during the pandemic. Get outdoors and do something that energizes you. Something that fosters strong lasting memories with you, your family and your friends. I hope each of you are able tofind such an outlet. Spring is a beautiful time of year.
+In closing, I encourage everyone to enjoy the time they get to be out sampling with fellow colleagues this spring doing great science. Additionally, I would like to encourage you to take some time for yourself and your family. The outdoors has proven to be vitally important to people’s physical and especially mental health during the pandemic. Get outdoors and do something that energizes you. Something that fosters strong lasting memories with you, your family and your friends. I hope each of you are able to find such an outlet. Spring is a beautiful time of year.
 
 Best wishes as we move forward into 2022!
 
@@ -54,12 +54,14 @@ __TABLE OF CONTENTS__
 render_toc(getSourceEditorContext()$path)
 ```
 
+-----
+
 ## SNEC Reports 
 
 - [Board of Directors Minutes from October 2021](https://drive.google.com/file/d/1jqQcA03y2cue5ZuwPPFWws19Nxh0jv_Y/view?usp=sharing)
 - [Finance Committee 2021-Q4 and 2022-Q1](https://drive.google.com/file/d/1-TvYSrLUUsFpTAhRkI06cVo800GLQJIV/view?usp=sharing)
 
-## Student Subunit Reports 
+-----
 
 ## Announcements
 
@@ -69,6 +71,30 @@ render_toc(getSourceEditorContext()$path)
 
 - We need judges for the SNEC Student Travel Award. Please contact [Syma Ebbin](syma.ebbin@uconn.edu) for more information. 
 - Are you a professional member attending the summer meeting? Please consider volunteering to be a judge for the Best Student Presentation awards. If you're interested, contact [Syma Ebbin](syma.ebbin@uconn.edu). 
+
+-----
+
+### DEI Discussion Group Invitation
+
+AFS SNEC holds a monthly discussion on topics related to Diversity, Equity, and Inclusion within the fields of fisheries science, management, and outreach. Everyone is welcome to attend. You can drop in for just one discussion, or tune in every month.
+
+You do not need to have any expertise in DEI topics in order to attend – you just need a desire to learn.
+
+The AFS SNEC DEI Discussions take place on the third Thursday of every month at 2PM via Zoom. Upcoming dates are May 19, June 16, and July 21.  The Zoom link will be sent out via the AFS SNEC and AFS NED listservs.
+
+SNEC member Dr. Lian Guo started this discussion group in 2021 and wrote an [article on Page 15 of the Spring 2021 Northeastern Division Newsletter](https://ned.fisheries.org/wp-content/uploads/sites/55/2021/06/NED_Newsletter_Spring2021_Online.pdf) describing the reasons for starting the effort. Our meetings include:
+
+- Reviewing resources that will help the American Fisheries Society to be a diverse, equitable, and inclusive professional society
+- Increasing our awareness of social inequities in fisheries
+- Discussing our thoughts and brainstorming steps our chapter could take to address the issues presented
+
+Anyone can facilitate a monthly discussion and/or propose articles to read, videos to watch, or podcasts to listen to.  If you’d like to facilitate but need help coming up with a discussion topic, we can help with that.
+
+To see past topics discussed and access the articles and podcasts that have been suggested, check out the [DEI page on the SNEC website](https://snec.fisheries.org/dei/)
+
+To learn more about AFS-wide DEI efforts, check out the [AFS Equal Opportunities Section website](https://equalopportunity.fisheries.org/) and the [AFS Diversity, Equity, and Inclusion Committee webpage](https://diversity.fisheries.org/diversity-equity-and-inclusion-committee/)
+
+-----
 
 ### SNEC Summer Meeting 2022
 
@@ -131,13 +157,19 @@ Elaina Hancock described how a potential ripple effect from carbon in the atmosp
 
 ![This photo shows sand lance embryos that have and have not hatched. Sand lance have trouble hatching at future ocean CO2 levels (photo courtesy of Emma Cross).](eggs-1024x914.jpg)
 
+-----
+
 ### Student Travel Award Reflections
 
-Check out [this slide deck](https://drive.google.com/file/d/1d20aFGcpXuj4YV1_xJo89PdbjAPP7fkz/view?usp=sharing) to learn more about the students who were recently awarded SNEC travel stipends to share their research, and what it meant to them to have this opportunity. 
+Check out [this slide deck](https://drive.google.com/file/d/1d20aFGcpXuj4YV1_xJo89PdbjAPP7fkz/view?usp=sharing) to meet Sarah Weisberg and Colby Peters. Sarah and Colby were both recent recepients of SNEC travel stipends, which allowed them to travel to share their research with other fisheries professionals. Learn more about these two early-career scientists, their work, and what receiving the SNEC travel stipend meant to them. A big thanks goes out to our dues paying members who provide the financial support for these awards!
+
+-----
 
 ### View Screening for documentary, Last of the Right Whales
 
 Leah Baumwell has been involved with the documentary, Last of the Right Whales, as an impact campaign partner to help shape messages in the film and actions that the public can take after the film gets distributed more broadly. They are hosting a screening of the film in Portland, Maine on April 27th which includes a Q&A panel (fishermen, scientists, NGOs) that Leah will be moderating to help inform the audience. Leah encourages any members in the area to attend. 
+
+-----
 
 ### River Herring: Bringing the Ocean to New England's Freshwater by Abigail Archer
 
