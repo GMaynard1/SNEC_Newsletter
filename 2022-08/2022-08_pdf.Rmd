@@ -30,8 +30,8 @@ library(rstudioapi)
 <font size="5"> **SNEC President's Message** </font>
 
 Dear Friends and Colleagues,
-I am humbled and privileged to assume the role of President of SNEC. I am grateful to my predecessor, Christopher McDowell for his leadership and contributions to SNEC during his presidency, and the members of the Executive Committee and Board. I have been inspired by their commitment to SNEC and all of their achievements and I look forward to continuing the chapters work by encouraging the exchange of information by members of the Society.
-I recognize that times have been challenging on us all, as we continue to navigate a world surround by COVID and subvariants, and for some, adjusting to a return to office work policy. I hope you and your families continue to stay safe, well and healthy! This June provided a sense of relief and normalcy for our chapter, with our first SNEC in person summer meeting in over 2 years! This meeting had excellent presentations that highlighted current research being done throughout the region, and provided an opportunity to network and connect in person with each other. Thank you to those in attendance!
+I am humbled and privileged to assume the role of President of SNEC. I am grateful to my predecessor, Christopher McDowell for his leadership and contributions to SNEC during his presidency, and the members of the Executive Committee and Board. I have been inspired by their commitment to SNEC and all of their achievements and I look forward to continuing the chapter's work by encouraging the exchange of information by members of the Society.
+I recognize that times have been challenging on us all, as we continue to navigate a world surrounded by COVID and subvariants, and for some, adjusting to a return to office work policy. I hope you and your families continue to stay safe, well and healthy! This June provided a sense of relief and normalcy for our chapter, with our first SNEC in person summer meeting in over 2 years! This meeting had excellent presentations that highlighted current research being done throughout the region, and provided an opportunity to network and connect in person with each other. Thank you to those in attendance!
 For many of us, spring and summer is an exciting time. It is the start of field season, and a chance for us to leave our homes and offices for more exciting work on the water or in the field! This spring, for me, involved leading a gillnet offshore wind fisheries monitoring survey south of Rhode Island. Working with commercial fishermen, we set large-mesh gillnets from April-June to capture monkfish and winter skate. This sampling is conducted to assess the seasonal abundance, and distribution of monkfish and winter skate for two years prior to construction and installation of offshore wind turbines. 
 Living on Cape Cod is always a busy time especially during the summer! For most, summers on Cape Cod mean lots of beach days and sunshine, family vacations, boat rides, ferries to the Vineyard, looking for great white sharks, lobster rolls, and a whole heck of traffic! But for me, it means spending time with friends and family, kayak fishing for scup, seabass and striped bass, supporting local businesses, eating ice cream, and filling my belly with seasonal and local seafood! I hope you each have a wonderful and safe summer, and I encourage you to stop and enjoy the diversity of local seafood that is available this time of year.
 In closing, I hope as President I will continue to support and encourage participation from fishery stakeholders at our meetings, and give them a space to share their wisdom and background on various fisheries related issues, so that as scientists we can work together towards more sustainable and effective solutions. In addition, I hope to continue DEI efforts currently underway by the chapter and national society to create a more inclusive community for our membership.  Feel free to reach out to me, the Executive Committee, or Board of Directors if you have ideas or would like to get involved. 
@@ -43,6 +43,7 @@ In closing, I hope as President I will continue to support and encourage partici
 ![Aubrey Ellertson](Aubrey2.jpg)
 
 *Figure 1 -- SNEC President Aubrey Ellertson in the field*
+\newpage
 
 ## Announcements 
 
@@ -84,11 +85,12 @@ During late summer 2019 and 2020, bottom waters in southern Cape Cod Bay (CCB) b
 
 ![DO_probe](IMG_20220622_155048304_HDR (2).jpg)
 
-*Figure 4 -- A dissolved oxygen probe installed on a lobster trap*
+*Figure 3 -- A dissolved oxygen probe installed on a lobster trap*
 
 ![DeckDataHub](IMG_0039.jpg)
 
-*Figure 5 -- A Deck Data Hub (Lowell Instruments LLC., Falmouth, MA) allows fishermen to see the dissolved oxygen and temperature data collected on their gear and transmits data back to scientists at DMF and NOAA in near real time*
+*Figure 4 -- A Deck Data Hub (Lowell Instruments LLC., Falmouth, MA) allows fishermen to see the dissolved oxygen and temperature data collected on their gear and transmits data back to scientists at DMF and NOAA in near real time*
+\newpage
 
 ### Pictures from the field
 
