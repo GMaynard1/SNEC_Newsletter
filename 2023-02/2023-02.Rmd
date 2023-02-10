@@ -1,0 +1,141 @@
+---
+title: "SNEC Newsletter"
+author: "SNEC Comms Committee"
+date: "`r Sys.Date()`"  
+output: 
+  blastula::blastula_email:
+    toc: TRUE
+    toc_depth: 3
+    toc_float: TRUE
+    fig_caption: FALSE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(blastula)
+library(rstudioapi)
+devtools::source_gist(
+  "c83e078bf8c81b035e32c3fc0cf04ee8", 
+  filename = 'render_toc.R'
+  )
+```
+
+<center> 
+<font size="24"> **SNEC Newsletter** </font>
+
+<font size="5"> *`r Sys.Date()` * </font>
+
+![SNEC Logo](../Stock/SNEC.jpg)
+</center>
+
+<font size="5"> **SNEC President's Message** </font>
+
+```{r toc, echo=FALSE} 
+render_toc(getSourceEditorContext()$path)
+```
+
+## 2023 SNEC / NED Meeting Content
+
+Thank you to all the folks who made the AFS SNEC/NED meeting in Boston possible! Three Cheers to the Planning Committee, Student Volunteers, Moderators, AV Crew, AFS HQ Staff, Poster and Oral Presenters, and Attendees. More pictures and experiences from the conference will be published in the Spring newsletter.
+
+![SNEC volunteers made the meeting possible](meeting_crew.jpg)
+
+Thanks also to [Rachel Pomerleau](https://snec.fisheries.org/logo/) who designed the logo for this meeting. Rachel is a graduate student at Acadia University studying trace element contaminants in coastal recreational fishes in Atlantic Canada. She’s also an artist!
+
+![Rachel Pomerleau](Rachel Pomerleau.jpg)
+
+![Meeting Logo](Boston2023_Logo_JPEG_edited.jpg)
+
+## 2022 AFS Annual Meeting Travel Award Recipients
+
+Thanks to the generosity of our members, SNEC supported two students in their travels to Spokane, Washington for the AFS annual meeting last fall. 
+
+Asha Ajmani is a PhD student at UMass Amherst and a Fellow at the Northeast Climate Adaptation Science Center. 
+
+![Asha Ajmani](aa.png)
+
+> *Thank you for the opportunity to attend AFS 2022. I was proud to attend a
+conference that focused so much on the value of Indigenous Knowledge, Indigenous
+science, and Indigenous partnerships. It is hard to work in a field where Tribal
+engagement is relatively new, and it is personally frustrating and isolating to be one
+of the few people at my university engaging in this work; my goals and the goals of
+the Tribal community don’t often align with the standard research milestones
+guiding academia. It was welcoming and rewarding to participate in a conference
+where we were invited to be a part of culture and science that highlights the
+Indigenous ways of life, including deep connections to culture and nature. For the
+first time in a long time, I felt connected to a community that appreciates this, and I
+was able to network and make connections with others working with Indigenous
+communities. One idea that really stood out to me was the concept of Indigenous
+methodologies and how fish are “interrogated” throughout their whole life. From
+Sammy Matsaw Jr., I learned that the Wolf-Teachings promote keeping our hands
+off the fish. Using light-handed methods, or methods that provide more
+information with less handling of the fish, fits in with these teachings and helps
+advance more quickly towards a subsistence goal. These goals are higher than the
+recovery goals set by state or federal management agencies. I would like to
+incorporate this light-handed methodology more intentionally into my work, as it
+aligns with the concepts taught to me by my Tribal partners and with my own
+personal beliefs.*
+
+You can read more about Asha, her research, and her experience in Spokane [here](https://drive.google.com/file/d/1cBViycne1AwIGMi5BulOtZcg5MVwZwjW/view?usp=share_link). 
+
+Katrina Zarrella Smith is a PhD Candidate in the Jordaan Fisheries and Aquatic Ecology lab at UMass Amherst. 
+
+![Katrina Zarella Smith](kzs.png)
+
+> *AFS Spokane was an amazing opportunity for me to debut my dissertation research to
+an important audience. I view professional conferences, specifically AFS, as an
+essential development tool in the research process from start to finish, and not just a
+time to communicate final results. The “Bringing new perspectives to marine and
+estuarine fisheries” symposium, where I gave my oral presentation, provided an
+excellent platform to share plans for my research, interesting preliminary results, and
+work on developing my scientific communication style. Through my talk and time at
+AFS, I was able to make valuable connections with professionals and peers ─
+connections that will ultimately enhance my research products and broaden my
+career avenues. This award also enabled me to take advantage of the Continuing
+Education courses which taught me skills that I am now applying in my modeling work.
+I am also a member of the Equal Opportunities Section and AFS was a great time for
+us all to come together, meet folks with similar experiences, and move forward with
+new energy to take on the challenges of bringing diversity, equity, and inclusion
+principles to our profession. Thank you all for this award and for supporting me as I
+work to achieve my goals.*
+
+You can read more about Katrina, her research, and her experience in Spokane [here](https://drive.google.com/file/d/1cx8H4EY_ucfpif8MWr33jliRe9CgWLUa/view?usp=share_link). 
+
+## Center for Coastal Studies Researching Shellfish Abundance in East Harbor on Cape Cod
+
+The Center for Coastal Studies (CCS) Marine Fisheries Research program has been working closely with scientists and students from the National Park Service Cape Cod National Seashore and Antioch University to study horseshoe crab and shellfish populations in East Harbor, also known as Pilgrim Lake, a coastal lagoon in Truro and Provincetown on the outer Cape. The construction of the railroad in the 1800s isolated East Harbor from Cape Cod Bay, now connected to the Bay only by a culvert under Route 6 and Shore Road that for years functioned only as an overflow to prevent rainwater from overfilling the lagoon and flooding the highway. An oxygen depletion and fish kill in September 2001 prompted the Town of Truro and Cape Cod National Seashore to investigate options for restoring the East Harbor system, and in the following year, the Seashore began a [tidal restoration project](https://www.nps.gov/caco/learn/nature/east-harbor-tidal-restoration-project-page.htm), allowing the tide to run in and out of the culvert. The lagoon quickly turned from brackish to estuarine/saltwater conditions and water quality improved. Fish and shellfish returned to the system relatively quickly, but in the years following the restoration, their numbers fluctuated from year to year. 
+
+![Plankton pumping](Nichols_pump.jpg)
+*The CCS Toyota Tacoma often served as a mobile plankton laboratory this summer. A pump sampler designed and built by Marine Fisheries Research Director Owen Nichols operated off the truck’s battery, filtering plankton from hundreds of gallons of water. Here, Nichols deploys the pump sampler as Americorps Cape Cod service members look on.*
+
+This summer, CCS Marine Fisheries Research director Owen Nichols collected zooplankton samples as part of a study of shellfish abundance and distribution in the East Harbor system. Nichols will be analyzing these samples this winter, comparing the numbers of bivalve (two-shelled molluscs like clams and mussels) and crab larvae in samples collected on incoming and outgoing tides in order to understand factors driving changes in the abundance of shellfish and their predators (such as the invasive green crab). While the CCS Marine Fisheries Research program often works offshore with the Cape’s commercial fishing community, we frequently respond to community concerns by looking inshore at the vital habitats of our bays, marshes, and coastal lagoons. 
+
+## Learn More About Our Region
+
+- UConn Today ran a feature story about research at the intersection of river herring restoration and climate change in Connecticut. You can read more about that collaborative effort between fisheries biologists and hydrologists [here](https://today.uconn.edu/2022/10/alewives-can-they-get-out/). 
+
+- The State of the Harbor Conference in Wellfleet, MA was cosponsored by the [Friends of Herring River](https://www.friendsofherringriver.org/), [Mass Audubon](https://www.massaudubon.org/), [The Center for Coastal Studies](https://coastalstudies.org/), [The Wellfleet Conservation Trust](https://wellfleetconservationtrust.org/), and the Town of Wellfleet. It included presentations about using eDNA to track winter flounder, herring restoration, and nutrient flows in the harbor. Check out a recording of the conference [here](https://reflect-townofwellfleet.cablecast.tv/CablecastPublicSite/show/1295)
+
+- The team behind a multi-year human dimensions research project studying attitudes to rebounding seal and shark populations among different demographic groups on Cape Cod has been busy publishing the results of their research. Check out more about the project [here](https://seagrant.whoi.edu/sealshark/). 
+
+- Massachusetts Division of Marine Fisheries biologist John Sheppard put together a [YouTube video](https://www.youtube.com/watch?v=1JDeQDCP6go&t=11s) to go along with a recent publication he co-authored, entitled [Phenological Variation in Spring Migration Timing of Adult Alewife in Coastal Massachusetts](https://afspubs.onlinelibrary.wiley.com/doi/full/10.1002/mcf2.10198)
+
+## Recently Published Research 
+
+### PAPER TITLE
+
+> CITATION
+
+Abstract
+[Read the full paper..](https://doi.org/DOINUMBER)
+
+-----
+
+*SNEC exists to encourage exchange of information by members of the American Fisheries Society residing or working within Massachusetts, Connecticut, and Rhode Island. Find us online:*
+
+- [Website](https://snec.fisheries.org/)
+- [Facebook](https://facebook.com/SNECAFS)
+- [Twitter](https://twitter.com/snec_afs)
+- [YouTube](https://www.youtube.com/channel/UCsWL2YkP5tkWs2DAXPihvPA/about)
+
+*Submit your own newsletter content [here](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.gle%2F9dny25282o2hRWAW9&data=04%7C01%7Caarcher%40barnstablecounty.org%7C5553f580af294f062e2a08d9b8d1f7aa%7C84475217b42348dbb766ed4bbbea74f1%7C0%7C1%7C637744034233371914%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Lx14NCnMvq3gIEmmuTTgBEy%2Bh3MMFsFE%2FE1216YSy8s%3D&reserved=0)*
