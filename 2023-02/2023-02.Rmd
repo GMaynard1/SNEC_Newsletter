@@ -1,12 +1,13 @@
 ---
 title: "SNEC Newsletter"
-author: "SNEC Comms Committee"
-date: "`r Sys.Date()`"  
+author: 
+date: "`r Sys.Date()`"
 output: 
   blastula::blastula_email:
+  #html_document:
     toc: TRUE
     toc_depth: 3
-    toc_float: TRUE
+    toc_float: FALSE
     fig_caption: FALSE
 ---
 
@@ -14,25 +15,18 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 library(blastula)
 library(rstudioapi)
-devtools::source_gist(
-  "c83e078bf8c81b035e32c3fc0cf04ee8", 
-  filename = 'render_toc.R'
-  )
+# devtools::source_gist(
+#   "c83e078bf8c81b035e32c3fc0cf04ee8", 
+#   filename = 'render_toc.R'
+#   )
 ```
 
 <center> 
 <font size="24"> **SNEC Newsletter** </font>
 
 <font size="5"> *`r Sys.Date()` * </font>
-
 ![SNEC Logo](../Stock/SNEC.jpg)
 </center>
-
-<font size="5"> **SNEC President's Message** </font>
-
-```{r toc, echo=FALSE} 
-render_toc(getSourceEditorContext()$path)
-```
 
 ## 2023 SNEC / NED Meeting Content
 
