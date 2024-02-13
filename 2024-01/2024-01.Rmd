@@ -33,17 +33,6 @@ devtools::source_gist(
 render_toc(getSourceEditorContext()$path)
 ```
 
-## Announcements 
-
-### Fishery Decarbonization Survey Seeks Participants
-
-Vanessa Sedore (Brown University thesis senior) and Sarah Schumann (Fishery Friendly Climate Action) are looking for fishery ecosystem scientists to participate in an expert elicitation exercise focused on scoring the known and potential impacts of a range of decarbonization (aka climate change mitigation) strategies on fishery-supporting ecosystems. We welcome both young and established professionals, but participants must at a minimum be working towards an advanced degree in fisheries science, ecology, oceanography, or a related field. Please consider participating yourself, or spreading the word to others in your network who may be interested.
-
-- To learn more [click here...](https://docs.google.com/document/d/16axA_Vjz8B9xmabGmT5pvLhJpLrV5w0I4V4zW_od2wE/edit)
-- To sign up [click here...](https://docs.google.com/forms/d/e/1FAIpQLSfh-l56OeAfgGuKEpgB7LdxWsE_h9ItDTcjFOGS4hmv5XXiIw/viewform)
-- Attend the training webinar on January 12 at 1200 [click here](https://us06web.zoom.us/j/6602187069?pwd=cU1MbVlYejJkREtUWUM4RmxrbGFkQT09)
-
-
 ## Member Submitted Content
 
 ### Save the Date, 18th Flatfish Biology Conference
@@ -56,10 +45,6 @@ For more information, please visit our [website](https://www.fisheries.noaa.gov/
 Steve Dwyer, stephen.m.dwyer@dominionenergy.com
 Elizabeth Fairchild, elizabeth.fairchild@unh.edu
 Renee Mercaldo-Allen, renee.mercaldo-allen@noaa.gov
-
-### Seminar on Scientific Communication Available
-
-Looking for training on scientific communication? This [seminar is available as a recording](https://noaabroadcast.adobeconnect.com/pzo2iagbswdw/): McBride, R. S. 2023. The architecture of a scientific article: perspectives for readers and authors. NOAA Science Seminar Series. January 27.  
 
 ### Sea Grant and NOAA Fisheries Announce 2023 Joint Fellowship Program Awardees 
 
