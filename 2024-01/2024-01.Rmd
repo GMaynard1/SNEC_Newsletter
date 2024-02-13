@@ -33,6 +33,9 @@ devtools::source_gist(
 render_toc(getSourceEditorContext()$path)
 ```
 
+## Winter Meeting Recap
+
+
 ## Member Submitted Content
 
 ### Save the Date, 18th Flatfish Biology Conference
@@ -42,9 +45,9 @@ The Flatfish Biology Conference welcomes talks and poster presentations addressi
 
 For more information, please visit our [website](https://www.fisheries.noaa.gov/new-england-mid-atlantic/outreach-and-education/flatfish-biology-conference) or contact the conference co-chairs:
 
-Steve Dwyer, stephen.m.dwyer@dominionenergy.com
-Elizabeth Fairchild, elizabeth.fairchild@unh.edu
-Renee Mercaldo-Allen, renee.mercaldo-allen@noaa.gov
+- Steve Dwyer, stephen.m.dwyer@dominionenergy.com
+- Elizabeth Fairchild, elizabeth.fairchild@unh.edu
+- Renee Mercaldo-Allen, renee.mercaldo-allen@noaa.gov
 
 ### Sea Grant and NOAA Fisheries Announce 2023 Joint Fellowship Program Awardees 
 
