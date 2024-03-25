@@ -14,6 +14,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 library(blastula)
 library(rstudioapi)
+library(htmltools)
 devtools::source_gist(
   "c83e078bf8c81b035e32c3fc0cf04ee8", 
   filename = 'render_toc.R'
@@ -34,7 +35,10 @@ render_toc(getSourceEditorContext()$path)
 ```
 
 ## Winter Meeting Recap
+The SNEC 2024 Winter Science Meeting happened on 9 January at the University of Connecticut in Storrs. The program kicked off with a welcome by President Corinne Truesdale, who took the time to  describe for the benefit of new members what the American Fisheries Society is all about, how the Southern New England Chapter fits into the organization, and how people can get involved with the chapter. We hope that you will take a moment to view her presentation [here](https://kaltura.uconn.edu/media/President+Truesdale+introduction/1_8p4tspsl). Following her welcome, attendees heard from 18 captivating presenters, covering studies of behavior, physiology, population biology, genetics, conservation, sampling methods, and of course fisheries management, of freshwater and marine fish as well as invertebrates! Eight of the presenters were students. The program is available [here](https://uconn-my.sharepoint.com/personal/eric_schultz_uconn_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Feric%5Fschultz%5Fuconn%5Fedu%2FDocuments%2FSNEC%2Fscience%20meetings%20and%20workshops%2Fsnec%20winter%202024%2Fprogram%2FSNEC%20Winter%202024%20Program%2Epdf&parent=%2Fpersonal%2Feric%5Fschultz%5Fuconn%5Fedu%2FDocuments%2FSNEC%2Fscience%20meetings%20and%20workshops%2Fsnec%20winter%202024%2Fprogram&ga=1), and it includes abstracts and contact information for the presenters; if you couldn’t make it to the meeting and want to see a presentation, just ask the presenter; they were all recorded! Sponsors for the meeting included the Connecticut Department of Energy and Environmental Protection, the School for Marine Science and Technology at UMass Dartmouth, Connecticut Sea Grant, UConn’s Department of Natural Resources and the Environment, and UConn’s Department of Ecology and Environmental Biology. We are quite grateful to them as it enables us to have the meetings at nice locations and to offer amenities such as a nourishing and tasty lunch from Moe’s Southwest Grill, a break that at which we served UConn’s famous Dairy Bar Ice Cream, and a reception afterwards at the [Trophy Room](https://graduatehotels.com/storrs/restaurant/trophy-room) of the Graduate Hotel. We had a terrific turnout of 96 people, of which 28 were students. We hope you could make it this time, and of course we can look forward to summer! The date and location are to be determined but it’s Rhode Island’s turn, as we finish up the term of President Truesdale and welcome the term of President Archer.
 
+
+![President addresses the crowd](corinne.JPG)
 
 ## Member Submitted Content
 

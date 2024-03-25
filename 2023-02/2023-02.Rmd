@@ -1,14 +1,16 @@
 ---
 title: "SNEC Newsletter"
-author: 
+author: "null"
 date: "`r Sys.Date()`"
-output: 
-  blastula::blastula_email:
-  #html_document:
-    toc: TRUE
+output:
+  html_document:
+    toc: yes
+    toc_depth: '3'
+    df_print: paged
+  pdf_document:
+    toc: yes
     toc_depth: 3
-    toc_float: FALSE
-    fig_caption: FALSE
+    fig_caption: no
 ---
 
 ```{r setup, include=FALSE}
@@ -20,6 +22,8 @@ library(rstudioapi)
 #   filename = 'render_toc.R'
 #   )
 ```
+
+\newpage 
 
 <font size="12"> **SNEC Newsletter** </font>
 
@@ -72,6 +76,8 @@ personal beliefs.*
 
 You can read more about Asha, her research, and her experience in Spokane [here](https://drive.google.com/file/d/1cBViycne1AwIGMi5BulOtZcg5MVwZwjW/view?usp=share_link). 
 
+\newpage 
+
 ### Katrina Zarrella Smith is a PhD Candidate in the Jordaan Fisheries and Aquatic Ecology lab at UMass Amherst. 
 
 <center>
@@ -85,7 +91,7 @@ time to communicate final results. The “Bringing new perspectives to marine an
 estuarine fisheries” symposium, where I gave my oral presentation, provided an
 excellent platform to share plans for my research, interesting preliminary results, and
 work on developing my scientific communication style. Through my talk and time at
-AFS, I was able to make valuable connections with professionals and peers ─
+AFS, I was able to make valuable connections with professionals and peers -
 connections that will ultimately enhance my research products and broaden my
 career avenues. This award also enabled me to take advantage of the Continuing
 Education courses which taught me skills that I am now applying in my modeling work.
@@ -97,17 +103,22 @@ work to achieve my goals.*
 
 You can read more about Katrina, her research, and her experience in Spokane [here](https://drive.google.com/file/d/1cx8H4EY_ucfpif8MWr33jliRe9CgWLUa/view?usp=share_link). 
 
+\newpage 
+
 # Center for Coastal Studies Researching Shellfish Abundance in East Harbor on Cape Cod
 
 The Center for Coastal Studies (CCS) Marine Fisheries Research program has been working closely with scientists and students from the National Park Service Cape Cod National Seashore and Antioch University to study horseshoe crab and shellfish populations in East Harbor, also known as Pilgrim Lake, a coastal lagoon in Truro and Provincetown on the outer Cape. The construction of the railroad in the 1800s isolated East Harbor from Cape Cod Bay, now connected to the Bay only by a culvert under Route 6 and Shore Road that for years functioned only as an overflow to prevent rainwater from overfilling the lagoon and flooding the highway. An oxygen depletion and fish kill in September 2001 prompted the Town of Truro and Cape Cod National Seashore to investigate options for restoring the East Harbor system, and in the following year, the Seashore began a [tidal restoration project](https://www.nps.gov/caco/learn/nature/east-harbor-tidal-restoration-project-page.htm), allowing the tide to run in and out of the culvert. The lagoon quickly turned from brackish to estuarine/saltwater conditions and water quality improved. Fish and shellfish returned to the system relatively quickly, but in the years following the restoration, their numbers fluctuated from year to year. 
 
 ![Plankton pumping](Nichols_pump.jpg){width=250px}
 ![microscope pic](cs_scope.JPG){width=222px}
+
 ![Pump truck at sunset](cs_sunset.JPG){width=475px}
 
 *The CCS Toyota Tacoma often served as a mobile plankton laboratory this summer. A pump sampler designed and built by Marine Fisheries Research Director Owen Nichols operated off the truck’s battery, filtering plankton from hundreds of gallons of water.*
 
 This summer, CCS Marine Fisheries Research director Owen Nichols collected zooplankton samples as part of a study of shellfish abundance and distribution in the East Harbor system. Nichols will be analyzing these samples this winter, comparing the numbers of bivalve (two-shelled molluscs like clams and mussels) and crab larvae in samples collected on incoming and outgoing tides in order to understand factors driving changes in the abundance of shellfish and their predators (such as the invasive green crab). While the CCS Marine Fisheries Research program often works offshore with the Cape’s commercial fishing community, we frequently respond to community concerns by looking inshore at the vital habitats of our bays, marshes, and coastal lagoons. 
+
+\newpage 
 
 # CT DEEP Fall Salmon Stocking Includes High School Students
 
@@ -115,8 +126,10 @@ Connecticut Department of Energy and Environmental Protection fisheries biologis
 
 ![Matt Devine talks to students about salmon](Devine_kids.JPG){width=315px}
 ![Students help move fish to the river](moving_fish.JPG){width=162px}
+
 ![Group photo of students and staff with stocking truck](happy campers.JPG){width=485px}
 
+\newpage
 
 # Learn More About Our Region
 
@@ -162,14 +175,14 @@ Stock assessments of U.S. Atlantic Wolffish Anarhichas lupus are hampered by a l
 
 > <div class="csl-entry">McBride, R. S., Maynard, G. A., Elzey, S. P., Hennen, D. R., Tholke, E. K., Runnebaum, J. M., &#38; McGuire, C. H. (2022). Evaluating growth dimorphism, maturation, and skip spawning of Atlantic halibut in the Gulf of Maine using a collaborative research approach. <i>Journal of Northwest Atlantic Fishery Science</i>, <i>53</i>, 57–77. https://doi.org/10.2960/J.V53.M736</div>
 
-The data-limited nature of Atlantic halibut (Hippoglossus hippoglossus) in U.S. waters hampers evaluation of what may be a slow but steady rebuilding pattern. Here, we collaborate with the commercial fishery to design and implement a multi-gear sampling program that collected 100s of biological samples from throughout the Gulf of Maine in a five-year period, 2014–2018. Examination of sectioned otoliths revealed a maximum age of 12 years (females) and 13 years (males); in comparison, Atlantic halibut as old as 40–50 years have been collected elsewhere in the western North Atlantic. Growth modeling confirmed sexual dimorphism, with a larger asymptotic length (L∞) for females (214 cm fork length [FL]) than males (195 cm FL). Estimates of median female length at maturity, L50, of 128 cm FL (124–132 cm, 95% confidence limits), and median female age at maturity, A50, of 9.6 years old (9.0–10.8 years), were longer and older than previous reports for the Gulf of Maine, likely resulting from our use of histological instead of macroscopic methods to classify maturity. Histology demonstrated that vitellogenesis initiated in individuals in spring, nearly a year prior to spawning, which allowed us to identify first-time (primiparous) spawners and provided the first potential evidence of skip spawning for this species. Finally, an index was developed to track the proportion of potentially mature females in the fishery, which showed an increasing trend; this qualitative tool may prove useful in a data-limited environment for evaluating the relative stock status of Atlantic halibut.
+The data-limited nature of Atlantic halibut (Hippoglossus hippoglossus) in U.S. waters hampers evaluation of what may be a slow but steady rebuilding pattern. Here, we collaborate with the commercial fishery to design and implement a multi-gear sampling program that collected 100s of biological samples from throughout the Gulf of Maine in a five-year period, 2014–2018. Examination of sectioned otoliths revealed a maximum age of 12 years (females) and 13 years (males); in comparison, Atlantic halibut as old as 40–50 years have been collected elsewhere in the western North Atlantic. Growth modeling confirmed sexual dimorphism, with a larger asymptotic length (L inf) for females (214 cm fork length [FL]) than males (195 cm FL). Estimates of median female length at maturity, L50, of 128 cm FL (124–132 cm, 95% confidence limits), and median female age at maturity, A50, of 9.6 years old (9.0–10.8 years), were longer and older than previous reports for the Gulf of Maine, likely resulting from our use of histological instead of macroscopic methods to classify maturity. Histology demonstrated that vitellogenesis initiated in individuals in spring, nearly a year prior to spawning, which allowed us to identify first-time (primiparous) spawners and provided the first potential evidence of skip spawning for this species. Finally, an index was developed to track the proportion of potentially mature females in the fishery, which showed an increasing trend; this qualitative tool may prove useful in a data-limited environment for evaluating the relative stock status of Atlantic halibut.
 [Read the full paper..](https://doi.org/10.2960/J.V53.M736)
 
 ### Life history assessment of Cusk, a data-poor species, in U.S. waters
 
 > <div class="csl-entry">McElroy, W. D., Tholke, E. K., Wuenschel, M. J., &#38; Robillard, E. (2022). Life History Assessment of Cusk, a Data-Poor Species, in U.S. Waters. <i>Marine and Coastal Fisheries</i>, <i>14</i>(5), e10223. https://doi.org/10.1002/MCF2.10223</div>
 
-Cusk Brosme brosme are fished across the northern Atlantic Ocean, but even basic biological data are limited in part by their difficult-to-sample deep and structured habitats. We sampled fish from a variety of sources across the Gulf of Maine to provide comprehensive life history information (age and size at maturity, fecundity, sex ratio, growth) for this data-poor species considered by National Oceanic and Atmospheric Administration Fisheries as a species of concern. Gonad histology and gonadosomatic index data indicated peak spawning in late spring (May–June), with limited spawning activity into summer. The histologically derived length at 50% maturity for female Cusk was 39.5 cm TL. Fecundity varied from a quarter million to four million oocytes, with a positive allometry versus size indicating that larger females have proportionally higher fecundity than smaller females. Male Cusk had unusually low gonadal investment for a gadiform, and males of all sizes examined (down to 21 cm) had spermatozoa present. Male maturity was equivocal even when the relative proportions of sperm stages were quantified through image analysis of gonad histology; further anatomical and physiological studies of small males are required to assess functional maturity in male cusk. The sex ratio at length indicated more males at larger sizes, and males had faster growth and larger size at age than females. Condition patterns also suggested lower condition for females than males after spawning and generally less variable condition for males. Gonadal investment, relative condition, and growth patterns all suggest differences in energy allocation between the sexes. This data-poor species has an uncertain stock status in U.S. waters; therefore, the results of the current work provide important information to its management.
+Cusk Brosme brosme are fished across the northern Atlantic Ocean, but even basic biological data are limited in part by their difficult-to-sample deep and structured habitats. We sampled fish from a variety of sources across the Gulf of Maine to provide comprehensive life history information (age and size at maturity, fecundity, sex ratio, growth) for this data-poor species considered by National Oceanic and Atmospheric Administration Fisheries as a species of concern. Gonad histology and gonadosomatic index data indicated peak spawning in late spring (May–June), with limited spawning activity into summer. The histologically derived length at 50% maturity for female Cusk was 39.5 cm TL. Fecundity varied from a quarter million to four million oocytes, with a positive allometry versus size indicating that larger females have proportionally higher fecundity than smaller females. Male Cusk had unusually low gonadal investment for a gadiform, and males of all sizes examined (down to 21 cm) had spermatozoa present. Male maturity was equivocal even when the relative proportions of sperm stages were quantified through image analysis of gonad histology; further anatomical and physiological studies of small males are required to assess functional maturity in male cusk. The sex ratio at length indicated more males at larger sizes, and males had faster growth and larger size at age than females. Condition patterns also suggested lower condition for females than males after spawning and generally less variable condition for males. Gonadal investment, relative condition, and growth patterns all suggest differences in energy allocation between the sexes. This data-poor species has an uncertain stock status in U.S. waters; therefore, the results of the current work provide important information to its management.
 [Read the full paper..](https://doi.org/10.1002/MCF2.10223)
 
 ### Repeated targets of natural selection during ecological transitions of fish across salinity boundaries
